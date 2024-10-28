@@ -19,6 +19,8 @@ public class App
 //        IntegerToRoman roman = new IntegerToRoman();
 //        System.out.println(roman.toRoman(2001));
 
+        ReverseInteger reverse = new ReverseInteger();
+        System.out.println(reverse.reverseInteger(351));
 
     }
 }
