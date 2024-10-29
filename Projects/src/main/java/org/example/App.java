@@ -25,7 +25,10 @@ public class App
 //        RomanToInteger integer = new RomanToInteger();
 //        System.out.println(integer.toInteger("CCXLVII"));
 
-        Palindeome palindeome = new Palindeome();
-        System.out.println(palindeome.stringPalindrome("madam"));
+//        Palindeome palindeome = new Palindeome();
+//        System.out.println(palindeome.stringPalindrome("madam"));
+
+        LongestSubStringPalindrome lp = new LongestSubStringPalindrome();
+        System.out.println(lp.longestpalindrome("ba"));
     }
 }
