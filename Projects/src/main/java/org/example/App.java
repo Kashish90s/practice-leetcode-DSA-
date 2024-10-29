@@ -19,8 +19,13 @@ public class App
 //        IntegerToRoman roman = new IntegerToRoman();
 //        System.out.println(roman.toRoman(2001));
 
-        ReverseInteger reverse = new ReverseInteger();
-        System.out.println(reverse.reverseInteger(351));
+//        ReverseInteger reverse = new ReverseInteger();
+//        System.out.println(reverse.reverseInteger(351));
 
+//        RomanToInteger integer = new RomanToInteger();
+//        System.out.println(integer.toInteger("CCXLVII"));
+
+        Palindeome palindeome = new Palindeome();
+        System.out.println(palindeome.stringPalindrome("madam"));
     }
 }
